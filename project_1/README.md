@@ -10,17 +10,17 @@ Analyze trends using SAT/ACT 2018 and 2019 data to develop a hypothesis to recom
 ### Contents:
 
 - Background
-- Datasets used for this project:
+- Datasets
 - Data Import & Cleaning
-- Data Import and cleaning for year 2018
-- Data Import and cleaning for year 2019
-- Combined data for SAT and ACT 2018 and 2019
+- Data 2018
+- Data 2019
+- Merged Data 2018/2019
 - Data Dictionary
 - Exploratory Data Analysis
 - Summary Statistics
-- Investigate trends in the data
+- Investigating Trends
 - Data Visualization
-- Heatmap using seaborn
+- Heatmap
 - Histogram
 - Boxplots
 - Scatter plots
@@ -80,7 +80,7 @@ Analyze trends using SAT/ACT 2018 and 2019 data to develop a hypothesis to recom
 - **Average total score SAT 2018 (1146)**
 - **Average total score SAT 2019 (1139)**
 
-### 3) The reason for the higher commitment could be that they invested some money into taking the test, so they are more driven to achieve a higher score. 
+### 3) The reason for the higher scores could be that they invested some money into taking the test, so they are more driven and committed to achieve a higher score. 
 
 ## Recommendation:
 ### It is worthwhile to charge a nominal fee for SAT to ensure better performance of the results from the participants.
