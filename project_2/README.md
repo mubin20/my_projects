@@ -86,7 +86,7 @@ For this project I was provided with train and test data for the year 2006 to 20
 **Some of the added features after featured engineering are listed below**
 
 |Feature|Type|Description|
-|---|---|---|---|
+|---|---|---|
 |total_baths|float|Combination of 4 features as follows (full_bath,half_bath,bsmt_full_bath,bsmt_half_bath)|
 |total_livable_sf|float|Combination of 3 features as follows (bsmtfin_sf_1,bsmtfin_sf_2,gr_liv_area)| 
 |neighborhoods_1|int|Consist of neighbourhoods (StoneBr,NridgeHt,Veenker,NoRidge,GrnHill)|
