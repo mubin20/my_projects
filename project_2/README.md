@@ -2,7 +2,7 @@
 ---
 
 ### Problem Statement
----
+
 1) Business Problem : As a Ames Real Estate Agency we been relied highly on the opinions and expertise of our relators to manually evaluate the price of the homes listed on our agency website. In order to keep up with the market of automation these days we will be hiring a team of data scientist expert to help us with the estimation of the property prices based on data from year 2006 to 2010.
 
 2) Data Science Problem: As a member of Data Science team, we will be exploring property features of data available from 2006 to 2010 to predict sale price of different property types using Linear regression model.
@@ -10,7 +10,7 @@
 ---
 
 ### Executive Summary
----
+
 A data set describing the sale of individual residential property in Ames,Iowa was described by Dean DeCock.The data contains large number of explanatory variables (23-nominal, 23-ordinal, 14-discrete and 20 continuous).[Article by Dean De Cock](http://jse.amstat.org/v19n3/decock.pdf)
 
 For this project I was provided with train and test data for the year 2006 to 2010. Workflow was broken down into seperate jupyter notebooks.
@@ -38,13 +38,13 @@ For this project I was provided with train and test data for the year 2006 to 20
 
 5) Model Selection: Model selection was done based on R2 score as per below table.
 
-![](https://github.com/mubin20/my_projects/blob/master/project_2/images/table.PNG)
-
-
+<p align="center">
+  <img src="https://github.com/mubin20/my_projects/blob/master/project_2/images/table.PNG" />
+</p>
 
 
 ### Contents
----
+
 
 **DATA Cleaning**
 - Background
@@ -79,7 +79,7 @@ For this project I was provided with train and test data for the year 2006 to 20
 ---
 
 ### Data Dictionary
----
+
 
 **As the data dictionary content of over 80 features, please refer to [link](https://www.kaggle.com/c/dsi-us-12-project-2-regression-challenge/data) to access the data dictionary.**
 
@@ -107,7 +107,7 @@ For this project I was provided with train and test data for the year 2006 to 20
 ---
 
 ### Sources
----
+
 
 - [Ames Population](https://datausa.io/profile/geo/ames-ia/#about)
 - [City of Ames](https://www.cityofames.org/about-ames/about-ames)
@@ -120,7 +120,7 @@ For this project I was provided with train and test data for the year 2006 to 20
 ---
 
 ### Conclusions and Recommendations
----
+
 
 1) Linear Regression model tends to account for approx 88.34% of the variation in sale price of a property.
 2) It was able to predict sale price within 22,800.19.
