@@ -38,7 +38,7 @@ For this project I was provided with train and test data for the year 2006 to 20
 
 5) Model Selection: Model selection was done based on R2 score as per below table.
 
-![](http://localhost:8888/notebooks/project_2/images/table.png)
+![](https://github.com/mubin20/my_projects/blob/master/project_2/images/table.PNG)
 
 
 
@@ -122,12 +122,12 @@ For this project I was provided with train and test data for the year 2006 to 20
 ### Conclusions and Recommendations
 ---
 
-- 1) Linear Regression model tends to account for approx 88.34% of the variation in sale price of a property.
-- 2) It was able to predict sale price within 22,800.19.
-- 3) Upon plotting actual price vs predicted price scatter plot we could see that the model could only predict the price in range of 85k to just over 210k but at both extremes it was lagging in preicting the sale price.
-- 4) Having below top 5 features in the house will result in property price increase.
-![](http://localhost:8888/notebooks/project_2/images/lr_Top5.png)
-- 5) Having below bottom 5 features in the house will result in property price decrease.
-![](http://localhost:8888/notebooks/project_2/images/lr_bottom5.png)
-- 6) Properties located in Stone Brooke, Northridge Heights,Veenker and Green Hill  results in 6.8% increae in price.
-![](http://localhost:8888/notebooks/project_2/images/neighborhood_1.png)
+1) Linear Regression model tends to account for approx 88.34% of the variation in sale price of a property.
+2) It was able to predict sale price within 22,800.19.
+3) Upon plotting actual price vs predicted price scatter plot we could see that the model could only predict the price in range of 85k to just over 210k but at both extremes it was lagging in preicting the sale price.
+4) Having below top 5 features in the house will result in property price increase.
+![](https://github.com/mubin20/my_projects/blob/master/project_2/images/lr_Top5.PNG)
+5) Having below bottom 5 features in the house will result in property price decrease.
+![](https://github.com/mubin20/my_projects/blob/master/project_2/images/lr_bottom5.PNG)
+6) Properties located in Stone Brooke, Northridge Heights,Veenker and Green Hill  results in 6.8% increae in price.
+![](https://github.com/mubin20/my_projects/blob/master/project_2/images/neighborhood_1.PNG)
