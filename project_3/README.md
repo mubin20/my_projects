@@ -66,4 +66,4 @@ Logistic regression model achieved the best accuracy scores (train / test scores
 
 Potential improvements for future: collect more training data, do more data cleaning and preprocessing (remove more stop words i.e. numbers, stem/lemmatize i.e. -ing verbs), more intensive gridsearching to optimize models, include n-gram parameter in gridsearch, try more models (boosting, SVM)
 
-Sentiment analysis showed that the comments in /r/cats were more positive overall than comments in /r/dogs, however we cannot conclude whether cats or dogs are superior. More research (and cute animal photos) are needed.
+Sentimental Analysis between both subreddit's r/Crypto_com and r/bodyweightfitness share similar positive sentiments of only between 10-15%. In my opinion, this could be because of the volatitily in crypto trading, thus the negative sentiments outweigh the positive ones. Similarly for bodyweight fitness, since it is not routined or structured, it is left up to the individuals to decide their pace and structure thus impacting on the overall intended progress and outcome. This might then resulted to them not achieving their planned goals, hence the negative sentiments. 
