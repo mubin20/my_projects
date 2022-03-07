@@ -58,6 +58,7 @@ Sentiment analysis using TextBlob, below are the mean and median sentiment for r
 **Fitness median sentiment: 0.10833333333333332**
 
 Bodyweightfitness subreddit tends to have slighltly higher mean positive sentiment.
+Between both subreddit's r/Crypto_com and r/bodyweightfitness they share similar positive sentiments between 10-15%.
 
 ## Conclusions
 
