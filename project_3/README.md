@@ -58,12 +58,12 @@ Sentiment analysis using TextBlob, below are the mean and median sentiment for r
 **Fitness median sentiment: 0.10833333333333332**
 
 Bodyweightfitness subreddit tends to have slighltly higher mean positive sentiment.
-Between both subreddit's r/Crypto_com and r/bodyweightfitness they share similar positive sentiments between 10-15%.
+There is a good balance of both positive and negative sentiments. This could be because of a diverse group of participants across both bodyweightfitness and crypto ranging from amateur to regular fitness goers and similarly amateur to seasoned investors for crypto.
 
 ## Conclusions
 
-Logistic regression model achieved the best accuracy scores (train / test scores: 0.9044 / 0.9129).
+Logistic regression model achieved the best accuracy scores (train / test scores: 0.9632 / 0.9129).
 
 Potential improvements for future: collect more training data, do more data cleaning and preprocessing (remove more stop words i.e. numbers, stem/lemmatize i.e. -ing verbs), more intensive gridsearching to optimize models, include n-gram parameter in gridsearch, try more models (boosting, SVM)
 
-Sentimental Analysis between both subreddit's r/Crypto_com and r/bodyweightfitness share similar positive sentiments of only between 10-15%. In my opinion, this could be due to the volatility in crypto trading, thus the negative sentiments outweigh the positive ones. Likewise, bodyweight fitness is not routined or structured so it is left to the individual to determine the pace and structure, impacting the overall progress and outcome. This may result in them not reaching their intended goals, hence the negative sentiments.
+There is a good balance of both positive and negative sentiments. This could be because of a diverse group of participants across both bodyweightfitness and crypto ranging from amateur to regular fitness goers and similarly amateur to seasoned investors for crypto.
