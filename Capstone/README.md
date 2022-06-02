@@ -1,5 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project: IPL Score Predictor
-![GIF](resources/ipl_teams.jpg)
+![GIF](resources/teams.jpg)
 
 ## Executive Summary
 ---
@@ -49,7 +49,7 @@
 - Data Modelling table shows the score for each models.
 
 <p align="center">
-  <img src="https://github.com/mubin20/my_projects/blob/master/..../..../model.PNG" />
+  <img src="https://github.com/mubin20/my_projects/blob/master/Capstone/model.png" />
 </p> 
 
 ## Conclusion
