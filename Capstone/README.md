@@ -22,7 +22,7 @@
 - Data cleaning and EDA
 - Preprocessing and Modeling
 - Evaluation
-- Conclusions
+- Conclusion
 
 ## Data Collection
 1) IPL matches dataset (overview of each match played between 2008 to 2020.
