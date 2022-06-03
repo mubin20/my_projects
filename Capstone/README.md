@@ -60,8 +60,9 @@
 
 
 ## Demo
-- App Deployed on Heroic
-Link: [IPL Score Predictor](https://mk-ipl-predictor.herokuapp.com/)
+- App Deployed on Heroku
+
+- Link: [IPL Score Predictor](https://mk-ipl-predictor.herokuapp.com/)
 
 ![GIF](resources/predict.gif)
 
