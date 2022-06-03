@@ -60,8 +60,8 @@
 
 
 ## Demo
-- I have deployed this on Heroku platform
-Link: [https://ipl-jaysoftic.herokuapp.com/](https://ipl-jaysoftic.herokuapp.com/)
+- App Deployed on Heroic
+Link: [IPL Score Predictor](https://mk-ipl-predictor.herokuapp.com/)
 
 ![GIF](resources/predict.gif)
 
